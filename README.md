@@ -1,2 +1,2 @@
 # Statistical Learning
-This repository corresponds to the assignments for the class STATS315a at Stanford (Winter 2021).
+This repository corresponds to the assignments for the class STATS315a at Stanford (Winter 2022).
